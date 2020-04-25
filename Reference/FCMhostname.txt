@@ -1,0 +1,2 @@
+(^|\.)(alt[1-8]-mtalk|mtalk|mtalk4)\.google\.com$
+(^|\.)fcm\.googleapis\.com$

@@ -1,2 +1,4 @@
 # TrickyRule
-TrickyRule——针对Google FCM域名及IP、部分国外顶级域名优化，并且尝试绕过一些网站的代理工具检测。
+* TrickyRule——针对Google FCM、部分国外域名优化，并且改变路由规则以尝试绕过一些网站的代理工具检测。
+* 基于 https://github.com/ACL4SSR/ACL4SSR 及 https://github.com/shadowsocks/shadowsocks-android/blob/master/core/src/main/assets/acl 修改。
+* ACL匹配顺序（面向SSR Android类）：[outbound_block_list] >> [proxy_list] >> [bypass_list]；域名 >> IPv4 >> IPv6。

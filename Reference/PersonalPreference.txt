@@ -1,0 +1,4 @@
+(^|\.)lucbjtu\.ac\.uk$
+(^|\.)planespotters\.net$
+(^|\.)v2ex\.com$
+(^|\.)weblogin\.lancs\.ac\.uk$

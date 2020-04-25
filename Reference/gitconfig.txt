@@ -1,0 +1,14 @@
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+[user]
+	name = ChengzhiLiu
+	email = 41582329+ChengzhiLiu@users.noreply.github.com
+[http]
+	proxy = socks5://127.0.0.1:(socks5 local port)
+[https]
+	proxy = socks5://127.0.0.1:(socks5 local port)
+[git]
+	proxy = socks5://127.0.0.1:(socks5 local port)

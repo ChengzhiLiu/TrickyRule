@@ -919,6 +919,8 @@
 
 # Samsung
 (^|\.)\w*samsung\w*\.\w*$
+(^|\.)az335309\.vo\.msecnd\.net$
+(^|\.)galaxy\.wni\.com$
 (^|\.)galaxyappstore\.com$
 (^|\.)ospserver\.net$
 

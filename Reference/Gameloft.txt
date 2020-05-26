@@ -1,5 +1,20 @@
+[proxy_list]
+# Gameloft
+(^|\.)201205igp\.gameloft\.com$
+(^|\.)chn-anubisfinder\.gameloft\.com$
+(^|\.)chn-gllive-bdc\.gameloft\.com$
+(^|\.)chn-janus\.gameloft\.com$
+(^|\.)eve\.gameloft\.com$
+(^|\.)game-portal-chn\.gameloft\.com$
+(^|\.)ingameads\.gameloft\.com$
+(^|\.)n0ve1st0ry\.gameloft\.com$
+(^|\.)vgold-chn\.gameloft\.com$
+(^|\.)vgold\.bdc\.gameloft\.com$
+218.11.2.149/32
+
+[bypass_list]
+# Gameloft
 (^|\.)gameloft\.com$
 162.244.88.0/22
 198.136.44.0/22
 208.71.184.0/22
-218.11.2.149/32

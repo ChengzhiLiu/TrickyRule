@@ -6,6 +6,7 @@
 (^|\.)ago\.xcp79a\.top$
 (^|\.)backup\.flytech\.xyz$
 (^|\.)bitbk\.mnk0794\.com$
+(^|\.)boxer\.baidu\.com$
 (^|\.)cn\.suyouxuan\.com$
 (^|\.)cnzz\.pb5n\.cn$
 (^|\.)gi\.dongfeeng\.cc$
@@ -585,6 +586,7 @@
 (^|\.)telegra\.ph$
 (^|\.)telegram\.me$
 (^|\.)telegram\.org$
+(^|\.)telesco\.pe$
 14.102.250.18/32
 14.102.250.19/32
 50.7.31.230/32
@@ -1049,6 +1051,13 @@
 (^|\.)smartmailcloud\.com$
 
 # Steam
+(^|\.)cdn\.mileweb\.cs\.steampowered\.com\.8686c\.com$
+(^|\.)csgo\.wmsj\.cn$
+(^|\.)dl\.steam\.ksyna\.com$
+(^|\.)dota2\.wmsj\.cn$
+(^|\.)st\.dl\.bscstorage\.net$
+(^|\.)st\.dl\.eccdnx\.com$
+(^|\.)st\.dl\.pinyuncloud\.com$
 (^|\.)steam-chat\.com$
 (^|\.)steamcdn-a\.akamaihd\.net$
 (^|\.)steamcontent\.com$
@@ -1170,6 +1179,7 @@
 (^|\.)upaiyun\.com$
 
 # Others
+(^|\.)10010\.com$
 (^|\.)115\.com$
 (^|\.)12306\.com$
 (^|\.)17173\.com$

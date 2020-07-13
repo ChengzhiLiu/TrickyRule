@@ -546,8 +546,8 @@
 (^|\.)pximg\.net$
 
 # Porn Websites
-(^|\.)8teenxxx\.com$
 (^|\.)\w*porn\w*\.\w*$
+(^|\.)8teenxxx\.com$
 (^|\.)ahcdn\.com$
 (^|\.)bcvcdn\.com$
 (^|\.)bongacams\.com$

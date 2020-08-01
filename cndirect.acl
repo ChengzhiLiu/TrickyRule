@@ -1,6 +1,10 @@
 [proxy_all]
 #*************************************************************************************
 [outbound_block_list]
+# Rubbish
+(^|\.)(dafahao|dongtaiwang|epochtimes|falundafa|minghui|ntdtv|soundofhope|wujieliulan)\.(org|com|net)$
+(^|\.)pincong\.rocks$
+
 # Website Hijacking
 (^|\.)activity\.qqjyo\.com$
 (^|\.)ago\.xcp79a\.top$
@@ -582,6 +586,7 @@
 # Steam
 (^|\.)fanatical\.com$
 (^|\.)humblebundle\.com$
+(^|\.)steam-chat\.com$
 (^|\.)steamcommunity\.com$
 (^|\.)steampowered\.com$
 (^|\.)steamstatic\.com$
@@ -1057,17 +1062,16 @@
 (^|\.)smartmailcloud\.com$
 
 # Steam
-(^|\.)cdn\.mileweb\.cs\.steampowered\.com\.8686c\.com$
 (^|\.)csgo\.wmsj\.cn$
 (^|\.)dl\.steam\.ksyna\.com$
 (^|\.)dota2\.wmsj\.cn$
 (^|\.)st\.dl\.bscstorage\.net$
 (^|\.)st\.dl\.eccdnx\.com$
 (^|\.)st\.dl\.pinyuncloud\.com$
-(^|\.)steam-chat\.com$
 (^|\.)steamcdn-a\.akamaihd\.net$
 (^|\.)steamcontent\.com$
 (^|\.)steamgames\.com$
+(^|\.)steampowered\.com\.8686c\.com$
 (^|\.)steamstat\.us$
 (^|\.)steamstatic\.com$
 (^|\.)steamusercontent\.com$

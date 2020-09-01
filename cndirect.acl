@@ -23,6 +23,7 @@
 (^|\.)m\.chateacher\.com$
 (^|\.)m\.dzdkw9\.cn$
 (^|\.)m\.jinsqq\.com$
+(^|\.)m\.kyunheet\.cn$
 (^|\.)m\.p9q2wrd\.wang$
 (^|\.)m\.qc35h96\.wang$
 (^|\.)m\.r29cob\.top$
@@ -87,7 +88,7 @@
 (^|\.)\w*whatsapp\w*\.\w*$
 (^|\.)\w*youtube\w*\.\w*$
 
-# Top Blocked Oversea Websites
+# Top Oversea Websites
 (^|\.)4sqi\.net$
 (^|\.)a248\.e\.akamai\.net$
 (^|\.)adobedtm\.com$
@@ -120,6 +121,7 @@
 (^|\.)cachefly\.net$
 (^|\.)cccat\.io$
 (^|\.)cdnst\.net$
+(^|\.)chegg\.com$
 (^|\.)cloudcone\.com$
 (^|\.)cloudfront\.net$
 (^|\.)comodoca\.com$
@@ -209,9 +211,6 @@
 (^|\.)vimeo\.com$
 (^|\.)vine\.co$
 (^|\.)vox-cdn\.com$
-(^|\.)wikileaks\.org$
-(^|\.)wikipedia\.org$
-(^|\.)xn--i2ru8q2qg\.com$
 (^|\.)yunpanjingling\.com$
 
 # Amazon
@@ -261,6 +260,8 @@
 (^|\.)stackoverflow\.com$
 
 # Discord
+(^|\.)discord\.co$
+(^|\.)discord\.com$
 (^|\.)discord\.gg$
 (^|\.)discord\.media$
 (^|\.)discordapp\.com$
@@ -338,6 +339,7 @@
 (^|\.)gvt0\.com$
 (^|\.)gvt1\.com$
 (^|\.)gvt3\.com$
+(^|\.)infinitedata-pa\.googleapis\.com$
 (^|\.)lz[0-9]\.gstatic\.com$
 (^|\.)mail\.gstatic\.com$
 (^|\.)maps\.gstatic\.com$
@@ -643,6 +645,20 @@
 174.37.243.0/16
 184.173.128.0/17
 208.43.122.128/27
+
+# Wiki
+(^|\.)mediawiki\.org$
+(^|\.)wikibooks\.org$
+(^|\.)wikidata\.org$
+(^|\.)wikileaks\.org$
+(^|\.)wikimedia\.org$
+(^|\.)wikinews\.org$
+(^|\.)wikipedia\.org$
+(^|\.)wikiquote\.org$
+(^|\.)wikisource\.org$
+(^|\.)wikiversity\.org$
+(^|\.)wikivoyage\.org$
+(^|\.)wiktionary\.org$
 
 # 飞流直播
 (^|\.)flzbcdn\.xyz$
@@ -1826,6 +1842,7 @@
 142.250.11.188/32
 142.250.31.188/32
 142.250.96.188/32
+142.250.101.188/32
 172.217.192.188/32
 172.217.194.188/32
 172.217.218.188/32

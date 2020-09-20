@@ -134,6 +134,7 @@
 (^|\.)dropboxapi\.com$
 (^|\.)dropboxstatic\.com$
 (^|\.)dropboxusercontent\.com$
+(^|\.)dubox\.com$
 (^|\.)duckduckgo\.com$
 (^|\.)ec2-54-174-178-70\.computer-1\.amazonaws\.com$
 (^|\.)ec2-54-174-24-124\.computer-1\.amazonaws\.com$

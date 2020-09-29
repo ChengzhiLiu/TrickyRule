@@ -1440,7 +1440,7 @@
 (^|\.)umengcloud\.com$
 (^|\.)upyun\.com$
 (^|\.)uxengine\.net$
-(^|\.)v2ex\.com$
+(^|\.)v2ex\.(co|com)$
 (^|\.)videocc\.net$
 (^|\.)vmware\.com$
 (^|\.)wandoujia\.com$

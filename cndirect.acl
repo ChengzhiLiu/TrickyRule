@@ -89,8 +89,10 @@
 (^|\.)\w*youtube\w*\.\w*$
 
 # Top Oversea Websites
+(^|\.)1password\.com$
 (^|\.)4sqi\.net$
 (^|\.)a248\.e\.akamai\.net$
+(^|\.)adguard\.org$
 (^|\.)adobedtm\.com$
 (^|\.)ampproject\.org$
 (^|\.)android\.com$
@@ -304,6 +306,7 @@
 (^|\.)n0ve1st0ry\.gameloft\.com$
 (^|\.)vgold-chn\.gameloft\.com$
 (^|\.)vgold\.bdc\.gameloft\.com$
+203.107.43.60/32
 218.11.2.149/32
 
 # Github
@@ -1151,7 +1154,7 @@
 
 # YYeTs
 (^|\.)got001\.com$
-(^|\.)jstucdn\.com$
+(^|\.)p4pfile\.com$
 (^|\.)rrys2020\.com$
 (^|\.)rrys\.tv$
 (^|\.)yyets\.com$
@@ -1417,7 +1420,6 @@
 (^|\.)smzdm\.com$
 (^|\.)snwx\.com$
 (^|\.)soufunimg\.com$
-(^|\.)ssl-images-amazon\.com$
 (^|\.)sspai\.com$
 (^|\.)startssl\.com$
 (^|\.)suning\.com$

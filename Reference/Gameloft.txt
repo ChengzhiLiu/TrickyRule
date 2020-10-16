@@ -10,6 +10,7 @@
 (^|\.)n0ve1st0ry\.gameloft\.com$
 (^|\.)vgold-chn\.gameloft\.com$
 (^|\.)vgold\.bdc\.gameloft\.com$
+203.107.43.60/32
 218.11.2.149/32
 
 [bypass_list]

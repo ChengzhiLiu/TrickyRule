@@ -364,7 +364,6 @@
 (^|\.)playbooks-pa\.googleapis\.com$
 (^|\.)services\.googleapis\.com$
 (^|\.)t[0-9]\.gstatic\.com$
-(^|\.)www\.google\..*$
 (^|\.)www\.googleapis\.com$
 (^|\.)www\.gstatic\.com$
 (^|\.)xn--ngstr-lra8j\.com$

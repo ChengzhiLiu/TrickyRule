@@ -1,5 +1,6 @@
 [proxy_list]
 # Gameloft
+(^|\.)(ap-northeast-2\.compute|eu-west-3\.compute|compute-1)\.amazonaws\.com$
 (^|\.)201205igp\.gameloft\.com$
 (^|\.)chn-anubisfinder\.gameloft\.com$
 (^|\.)chn-gllive-bdc\.gameloft\.com$

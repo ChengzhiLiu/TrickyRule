@@ -296,6 +296,7 @@
 204.15.20.0/22
 
 # Gameloft
+(^|\.)(ap-northeast-2\.compute|eu-west-3\.compute|compute-1)\.amazonaws\.com$
 (^|\.)201205igp\.gameloft\.com$
 (^|\.)chn-anubisfinder\.gameloft\.com$
 (^|\.)chn-gllive-bdc\.gameloft\.com$
@@ -721,8 +722,6 @@ fe80::/10
 (^|\.)网络$
 
 # China Keywords
-(^|\.).*coloros.*\..*$
-(^|\.).*oppo.*\..*$
 (^|\.)\w*-cn\w*\.\w*$
 (^|\.)\w*0x\w*\.\w*$
 (^|\.)\w*360buy\w*\.\w*$
@@ -1033,6 +1032,11 @@ fe80::/10
 (^|\.)netease\.com$
 (^|\.)ydstatic\.com$
 (^|\.)youdao\.com$
+
+# OPPO
+(^|\.).*coloros.*\..*$
+(^|\.).*heytap.*\..*$
+(^|\.).*oppo.*\..*$
 
 # PPTV & PPLive
 (^|\.)pplive\.cn$

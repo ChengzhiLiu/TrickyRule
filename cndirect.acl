@@ -917,7 +917,6 @@ fe80::/10
 (^|\.)googletagservices\.com$
 (^|\.)gtm\.oasisfeng\.com$
 (^|\.)imasdk\.googleapis\.com$
-(^|\.)kh\.google\.com$
 (^|\.)khm0\.google\.com$
 (^|\.)khm0\.googleapis\.com$
 (^|\.)khm1\.google\.com$
@@ -928,7 +927,6 @@ fe80::/10
 (^|\.)khm3\.googleapis\.com$
 (^|\.)khm\.google\.com$
 (^|\.)khm\.googleapis\.com$
-(^|\.)khmdb\.google\.com$
 (^|\.)khmdb\.googleapis\.com$
 (^|\.)mtalk4\.google\.com$
 (^|\.)mtalk\.google\.com$

@@ -914,7 +914,6 @@ fe80::/10
 (^|\.)dl\.l\.google\.com$
 (^|\.)fonts\.googleapis\.com$
 (^|\.)fonts\.gstatic\.com$
-(^|\.)googletagmanager\.com$
 (^|\.)googletagservices\.com$
 (^|\.)gtm\.oasisfeng\.com$
 (^|\.)imasdk\.googleapis\.com$

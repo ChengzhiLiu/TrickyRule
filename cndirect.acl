@@ -884,6 +884,12 @@ fe80::/10
 (^|\.)didiglobal\.com$
 (^|\.)udache\.com$
 
+# Douyu
+(^|\.)douyu\.com$
+(^|\.)douyu\.tv$
+(^|\.)douyuscdn\.com$
+(^|\.)douyutv\.com$
+
 # Epic
 (^|\.)epicgames\.com$
 (^|\.)helpshift\.com$
@@ -1178,6 +1184,7 @@ fe80::/10
 (^|\.)\w*announce\w*\.\w*$
 (^|\.)\w*torrent\w*\.\w*$
 (^|\.)\w*tracker\w*\.\w*$
+(^|\.)animebytes\.tv$
 (^|\.)animetorrents\.me$
 (^|\.)awesome-hd\.me$
 (^|\.)beitai\.pt$

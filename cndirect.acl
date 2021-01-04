@@ -942,7 +942,6 @@ fe80::/10
 (^|\.)safebrowsing\.googleapis\.com$
 (^|\.)settings\.crashlytics\.com$
 (^|\.)ssl-google-analytics\.l\.google\.com$
-(^|\.)ssl\.gstatic\.com$
 (^|\.)toolbarqueries\.google\.com$
 (^|\.)tools\.google\.com$
 (^|\.)tools\.l\.google\.com$

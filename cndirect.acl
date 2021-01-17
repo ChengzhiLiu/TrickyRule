@@ -1222,7 +1222,6 @@ fe80::/10
 (^|\.)ajax\.aspnetcdn\.com$
 (^|\.)bootcss\.com$
 (^|\.)cdnjs\.cloudflare\.com$
-(^|\.)code\.jquery\.com$
 (^|\.)jiasule\.com$
 (^|\.)staticfile\.org$
 (^|\.)upaiyun\.com$

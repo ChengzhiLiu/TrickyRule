@@ -871,14 +871,19 @@ fe80::/10
 (^|\.)acg\.tv$
 (^|\.)acgvideo\.com$
 (^|\.)b23\.tv$
+(^|\.)bigfun\.cn$
+(^|\.)bigfunapp\.cn$
 (^|\.)biliapi\.com$
 (^|\.)biliapi\.net$
 (^|\.)bilibili\.com$
 (^|\.)bilibili\.tv$
 (^|\.)biligame\.com$
 (^|\.)biligame\.net$
+(^|\.)bilivideo\.cn$
+(^|\.)bilivideo\.com$
 (^|\.)hdslb\.com$
 (^|\.)im9\.com$
+(^|\.)smtcdns\.net$
 
 # Blizzard
 (^|\.)battle\.net$
@@ -1270,6 +1275,7 @@ fe80::/10
 (^|\.)10010\.com$
 (^|\.)115\.com$
 (^|\.)12306\.com$
+(^|\.)13th\.tech$
 (^|\.)17173\.com$
 (^|\.)178\.com$
 (^|\.)17k\.com$
@@ -1455,6 +1461,7 @@ fe80::/10
 (^|\.)quanmin\.tv$
 (^|\.)qunar\.com$
 (^|\.)qunarzz\.com$
+(^|\.)qupu123\.com$
 (^|\.)rarbg\.to$
 (^|\.)repaik\.com$
 (^|\.)rrmj\.tv$

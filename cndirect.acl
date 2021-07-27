@@ -1082,7 +1082,9 @@ fe80::/10
 # OPPO
 (^|\.).*coloros.*\..*$
 (^|\.).*heytap.*\..*$
+(^|\.).*oneplus.*\..*$
 (^|\.).*oppo.*\..*$
+(^|\.).*realme.*\..*$
 
 # PPTV & PPLive
 (^|\.)pplive\.cn$

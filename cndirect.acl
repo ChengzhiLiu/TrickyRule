@@ -349,6 +349,7 @@
 (^|\.)gvt1\.com$
 (^|\.)gvt3\.com$
 (^|\.)infinitedata-pa\.googleapis\.com$
+(^|\.)issuetracker\.google\.com$
 (^|\.)lz[0-9]\.gstatic\.com$
 (^|\.)mail\.gstatic\.com$
 (^|\.)maps\.gstatic\.com$

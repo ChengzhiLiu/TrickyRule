@@ -150,6 +150,7 @@
 (^|\.)firebaseio\.com$
 (^|\.)flickr\.com$
 (^|\.)flipboard\.com$
+(^|\.)forums\.oneplus\.com$
 (^|\.)gfx\.ms$
 (^|\.)gongm\.in$
 (^|\.)hulu\.com$

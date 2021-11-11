@@ -13,7 +13,10 @@
 (^|\.)boxer\.baidu\.com$
 (^|\.)cn\.suyouxuan\.com$
 (^|\.)cnzz\.pb5n\.cn$
+(^|\.)doubleclick\.(com|net)$
 (^|\.)gi\.dongfeeng\.cc$
+(^|\.)googlesyndication\.com$
+(^|\.)logs\.ironsrc\.mobi$
 (^|\.)m\.715zy\.cn$
 (^|\.)m\.adhea\.top$
 (^|\.)m\.ajdyw\.top$
@@ -36,12 +39,14 @@
 (^|\.)m\.zh67\.cn$
 (^|\.)main\.mgzgmyzz\.com$
 (^|\.)mip\.yemnn\.cn$
+(^|\.)moatads\.com$
 (^|\.)mp\.xi9p\.com$
 (^|\.)mx\.nnjxqd\.com$
 (^|\.)ru\.k335k6\.com$
 (^|\.)s\.0bo\.top$
 (^|\.)s\.fisherh\.top$
 (^|\.)safe\.hbtnfeishi\.com$
+(^|\.)supersonicads\.com$
 (^|\.)www\.dlxfczs\.com$
 (^|\.)yqs\.kfweo2\.com$
 (^|\.)yqs\.ubrty\.com$

@@ -6,11 +6,11 @@
 (^|\.)pincong\.rocks$
 
 # Website Hijacking
-(^|\.)(a|img|prod-a|prod-bid|res1|rt|stage-a|stage-bid)\.applovin\.com$
 (^|\.)(s|mbdp02)\.bdstatic\.com$
 (^|\.)activity\.qqjyo\.com$
 (^|\.)ago\.xcp79a\.top$
-(^|\.)auction-load\.unityads\.unity3d\.com$
+(^|\.)applovin\.com$
+(^|\.)applvn\.com$
 (^|\.)backup\.flytech\.xyz$
 (^|\.)bitbk\.mnk0794\.com$
 (^|\.)boxer\.baidu\.com$
@@ -53,6 +53,7 @@
 (^|\.)safe\.hbtnfeishi\.com$
 (^|\.)sdk-api-v1\.singular\.net$
 (^|\.)supersonicads\.com$
+(^|\.)unityads\.unity3d\.com$
 (^|\.)www\.dlxfczs\.com$
 (^|\.)yqs\.kfweo2\.com$
 (^|\.)yqs\.ubrty\.com$

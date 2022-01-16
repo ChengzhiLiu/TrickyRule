@@ -6,16 +6,21 @@
 (^|\.)pincong\.rocks$
 
 # Website Hijacking
+(^|\.)(a|img|prod-a|prod-bid|res1|rt|stage-a|stage-bid)\.applovin\.com$
+(^|\.)(s|mbdp02)\.bdstatic\.com$
 (^|\.)activity\.qqjyo\.com$
 (^|\.)ago\.xcp79a\.top$
+(^|\.)auction-load\.unityads\.unity3d\.com$
 (^|\.)backup\.flytech\.xyz$
 (^|\.)bitbk\.mnk0794\.com$
 (^|\.)boxer\.baidu\.com$
 (^|\.)cn\.suyouxuan\.com$
 (^|\.)cnzz\.pb5n\.cn$
 (^|\.)doubleclick\.(com|net)$
+(^|\.)events\.mz\.unity3d\.com$
 (^|\.)gi\.dongfeeng\.cc$
 (^|\.)googlesyndication\.com$
+(^|\.)impression\.appsflyer\.com$
 (^|\.)logs\.ironsrc\.mobi$
 (^|\.)m\.715zy\.cn$
 (^|\.)m\.adhea\.top$
@@ -46,6 +51,7 @@
 (^|\.)s\.0bo\.top$
 (^|\.)s\.fisherh\.top$
 (^|\.)safe\.hbtnfeishi\.com$
+(^|\.)sdk-api-v1\.singular\.net$
 (^|\.)supersonicads\.com$
 (^|\.)www\.dlxfczs\.com$
 (^|\.)yqs\.kfweo2\.com$

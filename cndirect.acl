@@ -371,6 +371,7 @@
 (^|\.)mail\.gstatic\.com$
 (^|\.)maps\.gstatic\.com$
 (^|\.)metric\.gstatic\.com$
+(^|\.)mt[0-9]\.google\.cn$
 (^|\.)mt[0-9]\.gstatic\.com$
 (^|\.)mw[0-9]\.gstatic\.com$
 (^|\.)myaccount\.google\.com$

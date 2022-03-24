@@ -182,6 +182,7 @@
 (^|\.)kobo\.com$
 (^|\.)kobobooks\.com$
 (^|\.)licdn\.com$
+(^|\.)linkedin\.com$
 (^|\.)live\.net$
 (^|\.)livefilestore\.com$
 (^|\.)llnwd\.net$
@@ -1418,7 +1419,6 @@ fe80::/10
 (^|\.)laomo\.me$
 (^|\.)lemicp\.com$
 (^|\.)letitfly\.me$
-(^|\.)linkedin\.com$
 (^|\.)lizhi\.fm$
 (^|\.)lizhi\.io$
 (^|\.)lizhifm\.com$

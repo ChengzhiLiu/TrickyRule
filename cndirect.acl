@@ -1444,6 +1444,8 @@ fe80::/10
 (^|\.)moji\.com$
 (^|\.)moke\.com$
 (^|\.)mpyit\.com$
+(^|\.)msftconnecttest\.com$
+(^|\.)msftncsi\.com$
 (^|\.)msstatic\.com$
 (^|\.)mubu\.com$
 (^|\.)myunlu\.com$
@@ -1529,7 +1531,6 @@ fe80::/10
 (^|\.)weiphone\.net$
 (^|\.)womai\.com$
 (^|\.)wscdns\.com$
-(^|\.)www\.msftconnecttest\.com$
 (^|\.)xdrig\.com$
 (^|\.)xhscdn\.com$
 (^|\.)xiachufang\.com$

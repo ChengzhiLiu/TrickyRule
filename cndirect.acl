@@ -683,6 +683,18 @@
 (^|\.)terabox\.com$
 (^|\.)teraboxcdn\.com$
 
+# TikTok
+(^|\.).*tiktokcdn.*\..*$
+(^|\.)byteoversea\.com$
+(^|\.)ibytedtos\.com$
+(^|\.)ipstatp\.com$
+(^|\.)muscdn\.com$
+(^|\.)musical\.ly$
+(^|\.)tik-tokapi\.com$
+(^|\.)tiktok\.com$
+(^|\.)tiktokcdn\.com$
+(^|\.)tiktokv\.com$
+
 # Twitch
 (^|\.).*ttvnw\.akamaized\.net$
 (^|\.)jtvnw\.net$

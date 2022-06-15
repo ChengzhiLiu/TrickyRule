@@ -256,7 +256,7 @@
 
 # BBC
 (^|\.)\w*uk-live\w*\.\w*$
-(^|\.)bbc\.co$
+(^|\.)bbc\.co\.uk$
 (^|\.)bbc\.com$
 
 # Developer

@@ -258,6 +258,7 @@
 (^|\.)\w*uk-live\w*\.\w*$
 (^|\.)bbc\.co\.uk$
 (^|\.)bbc\.com$
+(^|\.)bbci\.co\.uk$
 
 # Developer
 (^|\.)apache\.org$

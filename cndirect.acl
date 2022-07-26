@@ -316,6 +316,7 @@
 # Gameloft
 (^|\.)(ap-northeast-2\.compute|eu-west-3\.compute|compute-1)\.amazonaws\.com$
 (^|\.)201205igp\.gameloft\.com$
+(^|\.)a9\.gold0010\.gameloft\.com$
 (^|\.)chn-anubisfinder\.gameloft\.com$
 (^|\.)chn-gllive-bdc\.gameloft\.com$
 (^|\.)chn-janus\.gameloft\.com$
@@ -749,15 +750,17 @@
 #*************************************************************************************
 [bypass_list]
 # LAN
-^(.*\.)?local.*$
-^(.*\.)?localhost.*$
 ^(.*\.)?ip6-localhost.*$
 ^(.*\.)?ip6-loopback.*$
+^(.*\.)?lan$
+^(.*\.)?local.*$
+^(.*\.)?localhost.*$
 10.0.0.0/8
 100.64.0.0/10
 127.0.0.0/8
 172.16.0.0/12
 192.168.0.0/16
+198.18.0.0/16
 224.0.0.0/4
 ::1/128
 fc00::/7

@@ -101,6 +101,7 @@
 (^|\.)\w*spotify\w*\.\w*$
 (^|\.)\w*telegram\w*\.\w*$
 (^|\.)\w*twitter\w*\.\w*$
+(^|\.)\w*v2ex\w*\.\w*$
 (^|\.)\w*whatsapp\w*\.\w*$
 (^|\.)\w*youtube\w*\.\w*$
 

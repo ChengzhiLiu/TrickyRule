@@ -741,6 +741,13 @@
 (^|\.)wikivoyage\.org$
 (^|\.)wiktionary\.org$
 
+# Yahoo
+(^|\.)yahoo\.co\.jp$
+(^|\.)yahoo\.com$
+(^|\.)yahoo\.com\.hk$
+(^|\.)yahoo\.com\.tw$
+(^|\.)yahoo\.net$
+
 # 飞流直播
 (^|\.)flzbcdn\.xyz$
 (^|\.)icntv\.xyz$

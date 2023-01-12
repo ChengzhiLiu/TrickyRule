@@ -1480,6 +1480,7 @@ fe80::/10
 (^|\.)nruan\.com$
 (^|\.)nuomi\.com$
 (^|\.)onlinedown\.net$
+(^|\.)ooklaserver\.net$
 (^|\.)oracle\.com$
 (^|\.)oschina\.net$
 (^|\.)ourdvs\.com$
@@ -1522,6 +1523,7 @@ fe80::/10
 (^|\.)smzdm\.com$
 (^|\.)snwx\.com$
 (^|\.)soufunimg\.com$
+(^|\.)speedtest\.net$
 (^|\.)sspai\.com$
 (^|\.)startssl\.com$
 (^|\.)suning\.com$

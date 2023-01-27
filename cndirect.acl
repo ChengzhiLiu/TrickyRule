@@ -1488,6 +1488,7 @@ fe80::/10
 (^|\.)paypal\.com$
 (^|\.)penghu-nsa\.gov\.tw$
 (^|\.)planespotters\.net$
+(^|\.)plnspttrs\.net$
 (^|\.)polyv\.net$
 (^|\.)post\.gov\.tw$
 (^|\.)qbox\.me$

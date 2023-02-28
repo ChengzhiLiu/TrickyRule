@@ -294,11 +294,33 @@
 (^|\.)duboxcdn\.com$
 
 # Facebook
-(^|\.)facebook\.com$
+(^|\.)\w*facebook\w*\.\w*$
+(^|\.)accountkit\.com$
+(^|\.)acebook\.com$
+(^|\.)faacebook\.com$
+(^|\.)facebbook\.com$
+(^|\.)fb\.audio$
 (^|\.)fb\.com$
+(^|\.)fb\.gg$
 (^|\.)fb\.me$
+(^|\.)fb\.watch$
 (^|\.)fbcdn\.com$
 (^|\.)fbcdn\.net$
+(^|\.)fbe2e\.com$
+(^|\.)fbinfra\.net$
+(^|\.)fbpigeon\.com$
+(^|\.)fbsbx\.com$
+(^|\.)fbthirdpartypixel\.com$
+(^|\.)fbwat\.ch$
+(^|\.)internet\.org$
+(^|\.)m-freeway\.com$
+(^|\.)m\.me$
+(^|\.)messenger\.com$
+(^|\.)meta\.com$
+(^|\.)metacareers\.com$
+(^|\.)msngr\.com$
+(^|\.)parse\.com$
+(^|\.)wit\.ai$
 31.13.24.0/21
 31.13.64.0/18
 45.64.40.0/22
@@ -433,8 +455,10 @@
 220.181.174.226/32
 
 # Instagram
+(^|\.)\w*instagram\w*\.\w*$
 (^|\.)akamaihd\.net$
 (^|\.)cdninstagram\.com$
+(^|\.)ig\.me$
 (^|\.)instagr\.am$
 (^|\.)instagram\.com$
 
@@ -711,6 +735,8 @@
 (^|\.)twimg\.org$
 
 # Whatsapp
+(^|\.)\w*whatsapp\w*\.\w*$
+(^|\.)wa\.me$
 18.194.0.0/15
 34.224.0.0/12
 50.22.198.204/30

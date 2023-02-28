@@ -90,19 +90,15 @@
 (^|\.)\w*beetalk\w*\.\w*$
 (^|\.)\w*blogspot\w*\.\w*$
 (^|\.)\w*dropbox\w*\.\w*$
-(^|\.)\w*facebook\w*\.\w*$
-(^|\.)\w*fbcdn\w*\.\w*$
 (^|\.)\w*github\w*\.\w*$
 (^|\.)\w*gmail\w*\.\w*$
 (^|\.)\w*imgur\w*\.\w*$
-(^|\.)\w*instagram\w*\.\w*$
 (^|\.)\w*porn\w*\.\w*$
 (^|\.)\w*sci-hub\w*\.\w*$
 (^|\.)\w*spotify\w*\.\w*$
 (^|\.)\w*telegram\w*\.\w*$
 (^|\.)\w*twitter\w*\.\w*$
 (^|\.)\w*v2ex\w*\.\w*$
-(^|\.)\w*whatsapp\w*\.\w*$
 (^|\.)\w*youtube\w*\.\w*$
 
 # Top Oversea Websites

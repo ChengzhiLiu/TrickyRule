@@ -723,7 +723,6 @@
 # LAN
 ^(.*\.)?ip6-localhost.*$
 ^(.*\.)?ip6-loopback.*$
-^(.*\.)?lan$
 ^(.*\.)?local.*$
 ^(.*\.)?localhost.*$
 10.0.0.0/8

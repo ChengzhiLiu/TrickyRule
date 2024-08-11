@@ -302,7 +302,7 @@
 (^|\.)s3\.amazonaws\.com$
 
 # Google
-(^|\.)\.goog$
+(^|\.)goog$
 (^|\.)accounts\.google\..*$
 (^|\.)accounts\.gstatic\.com$
 (^|\.)alt[0-9]*\.gstatic\.com$

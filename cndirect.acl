@@ -134,6 +134,9 @@
 (^|\.)nsstatic\.net$
 (^|\.)nytstyle\.com$
 (^|\.)openvpn\.net$
+(^|\.)opera-mini\.net$
+(^|\.)opera\.com$
+(^|\.)operamini\.com$
 (^|\.)periscope\.tv$
 (^|\.)ping\.pe$
 (^|\.)pinimg\.com$
@@ -299,6 +302,7 @@
 (^|\.)s3\.amazonaws\.com$
 
 # Google
+(^|\.)\.goog$
 (^|\.)accounts\.google\..*$
 (^|\.)accounts\.gstatic\.com$
 (^|\.)alt[0-9]*\.gstatic\.com$
